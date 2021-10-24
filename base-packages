@@ -8,7 +8,7 @@ exa
 fd
 fish-shell
 font-awesome5
-fong-firacode
+font-firacode
 fzf
 git
 jq
@@ -16,7 +16,7 @@ make
 mpv
 mupdf
 neovim
-nord-fonts-ttf
+nerd-fonts-ttf
 newsboat
 nitrogen
 picom
