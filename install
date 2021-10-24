@@ -1,0 +1,4 @@
+#!/bin/sh
+sudo xbps-install -Sy xbps
+sudo xbps-install -Suy
+sudo xbps-install -y $(cat $(dirname $0)/base-packages)
